@@ -1,7 +1,7 @@
-# JAMflow Cloud Nuxt v4 starter
+# JAMflow Cloud Nuxt UI Pro starter
 
 Example of using this template:
 
 ```bash
-nuxi init -t gh:JAMflow-Cloud/nuxt-starter#v4 FOLDER_NAME
+nuxi init -t gh:JAMflow-Cloud/nuxt-starter#ui-pro FOLDER_NAME
 ```
