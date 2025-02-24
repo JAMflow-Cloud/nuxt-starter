@@ -15,5 +15,6 @@ Or set `NUXI_INIT_REGISTRY=https://github.com/JAMflow-Cloud/nuxt-starter` as you
 
 # Templates available
 
+- `module`: ESlint + pnpm workspace
 - `v4`: Compatibility v4 + ESlint + Nuxt UI v3
 - `ui-pro`: Compatibility v4 + ESlint + Nuxt UI Pro v3

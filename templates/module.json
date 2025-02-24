@@ -1,0 +1,6 @@
+{
+  "name": "module",
+  "defaultDir": "jamflow-module",
+  "url": "https://jamflow.cloud",
+  "tar": "https://codeload.github.com/JAMflow-Cloud/nuxt-starter/tar.gz/refs/heads/module"
+}
