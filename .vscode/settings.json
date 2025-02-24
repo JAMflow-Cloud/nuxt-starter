@@ -1,0 +1,15 @@
+{
+  // Enable ESLint
+  "eslint.enable": true,
+  "eslint.useFlatConfig": true,
+
+  // Disable Prettier and default formatter to use ESlint instead
+  "prettier.enable": false,
+  "editor.formatOnSave": false,
+
+  // Auto fix
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+}

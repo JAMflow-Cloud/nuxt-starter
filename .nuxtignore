@@ -1,0 +1,21 @@
+# Local env files
+*.env
+!.env
+.env.example
+!.env.*
+
+# VSCode
+.vscode
+.devcontainer
+
+# Docker
+docker*
+
+# Misc
+.DS_Store
+.AppleDouble
+.LSOverride
+.fleet
+.idea
+
+# Project specific

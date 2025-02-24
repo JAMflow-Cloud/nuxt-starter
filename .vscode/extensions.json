@@ -1,0 +1,7 @@
+{
+  // Recommed Volar and ESlint
+  "recommendations": [
+    "Vue.volar",
+    "dbaeumer.vscode-eslint"
+  ]
+}
