@@ -1,2 +1,1 @@
-# nuxt-starter
-A collection of starter templates for `nuxt init`.
+safe-keeping branch to prevent unwanted PR issues
