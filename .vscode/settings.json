@@ -12,4 +12,12 @@
     "source.fixAll.eslint": "explicit",
     "source.organizeImports": "never"
   },
+
+  // Tailwind CSS IntelliSense
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": "on"
+  }
 }

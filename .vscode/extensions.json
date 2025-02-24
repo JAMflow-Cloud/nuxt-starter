@@ -1,7 +1,8 @@
 {
-  // Recommed Volar and ESlint
+  // Recommed Volar, ESlint and TailwindCSS
   "recommendations": [
     "Vue.volar",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss"
   ]
 }
